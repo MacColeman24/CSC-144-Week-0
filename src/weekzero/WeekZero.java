@@ -6,6 +6,7 @@ package weekzero;
  * Mac Coleman
  * November 19, 2021
  * I mostly worked on this by myself, but I tried to talk with Brodie when I could.
+ * I added more algorithms so that I could get more things done.
  */
 import java.util.List;
 import java.util.ArrayList;
