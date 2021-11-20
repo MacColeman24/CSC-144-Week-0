@@ -281,7 +281,7 @@ public class WeekZero {
     public static List<Integer> generateTestList(int n) {
         /* 
          * In all of your programs, I see that you usually pass an instance of
-         * the rng class in through the function arguments. Is it bad to
+         * the Random class in through the function arguments. Is it bad to
          * instantiate one inside of a function like this? I imagine making all
          * these new objects that only live for the duration of the function
          * might be annoying for the garbage collector.
